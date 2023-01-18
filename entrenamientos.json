@@ -1,0 +1,16 @@
+[
+	{
+	  "nombreEntreno": "Entrenamiento 1",
+	  "carrera": "10 min",
+	  "empujes": "pecho - triceps - hombro",
+	  "tracciones": "espalda - hombro posterior - biceps",
+	  "pierna": "Sentadilla - peso muerto"
+	 },
+	 {
+	  "nombreEntreno": "Entrenamiento 2",
+	  "carrera": "23 min",
+	  "empujes": "pecho",
+	  "tracciones": "espalda",
+	  "pierna": "Sentadilla"
+	 }
+]

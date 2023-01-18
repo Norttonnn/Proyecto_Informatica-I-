@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="370.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="34.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../OneDrive/Imágenes/logo.jpeg" />
+         </image>
+      </ImageView>
+      <TextField fx:id="mailRegistro" layoutX="201.0" layoutY="26.0" promptText="E-mail" />
+      <TextField fx:id="surnameRegistro" layoutX="201.0" layoutY="117.0" promptText="Surname" />
+      <TextField fx:id="nameRegistro" layoutX="201.0" layoutY="70.0" promptText="Name" />
+      <Button fx:id="botonRegistro" layoutX="201.0" layoutY="292.0" mnemonicParsing="false" onAction="#registraEsto" text="Register" />
+      <Label fx:id="labelCorreo" layoutX="482.0" layoutY="30.0" />
+      <PasswordField fx:id="passRegistro" layoutX="201.0" layoutY="157.0" promptText="Password" />
+      <PasswordField fx:id="pass2Registro" layoutX="201.0" layoutY="199.0" promptText="Repeat password" />
+      <CheckBox fx:id="checkDepor" layoutX="61.0" layoutY="191.0" mnemonicParsing="false" text="Deportista" />
+      <CheckBox fx:id="checkMedico" layoutX="61.0" layoutY="221.0" mnemonicParsing="false" text="Médico" />
+      <CheckBox fx:id="checkEntrenador" layoutX="60.0" layoutY="251.0" mnemonicParsing="false" text="Entrenador" />
+      <Label layoutX="394.0" layoutY="339.0" prefHeight="17.0" prefWidth="357.0" text="* Si eres médico o entrenador rellena el campo &quot;Especiality&quot;" />
+      <TextField fx:id="especialityRegistro" layoutX="201.0" layoutY="247.0" promptText="Especiality" />
+      <Label fx:id="labelName" layoutX="482.0" layoutY="74.0" />
+      <Label fx:id="labelSurname" layoutX="482.0" layoutY="121.0" />
+      <Label fx:id="labelPassword" layoutX="482.0" layoutY="161.0" />
+      <Label fx:id="labelCompletado" layoutX="376.0" layoutY="251.0" prefHeight="17.0" prefWidth="247.0" />
+      <Button fx:id="backButton" layoutX="664.0" layoutY="14.0" mnemonicParsing="false" onAction="#volver" text="&lt;-- BACK" textAlignment="CENTER">
+         <cursor>
+            <Cursor fx:constant="CROSSHAIR" />
+         </cursor>
+      </Button>
+   </children>
+</AnchorPane>

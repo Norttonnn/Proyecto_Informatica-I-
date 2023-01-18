@@ -1,0 +1,20 @@
+[
+  {
+    "entrenamiento": "si",
+    "correo": "mauroserverinodon@gmail.com",
+    "id": 1,
+    "nombre": "Mauro",
+    "apellidos": " ",
+    "pass": "1234",
+    "edad": 27
+  },
+  {
+    "entrenamiento": "si",
+    "correo": "juanchotagorda@gmail.com",
+    "id": 2,
+    "nombre": "Juan",
+    "apellidos": " ",
+    "pass": "1234",
+    "edad": 34
+  }
+]

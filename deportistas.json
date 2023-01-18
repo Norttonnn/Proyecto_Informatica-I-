@@ -1,0 +1,29 @@
+[
+  {
+    "dispo": "Lunes",
+    "correo": "mauroserverinodon@gmail.com",
+    "id": 1,
+    "nombre": "Mauro",
+    "apellidos": "",
+    "pass": "1234",
+    "edad": 27
+  },
+  {
+    "dispo": "Martes",
+    "correo": "juanchotagorda@gmail.com",
+    "id": 2,
+    "nombre": "Juan",
+    "apellidos": "",
+    "pass": "1234",
+    "edad": 34
+  },
+  {
+    "dispo": "Miercoles",
+    "correo": "q",
+    "id": 13,
+    "nombre": "q",
+    "apellidos": "q",
+    "pass": "q",
+    "edad": 21
+  }
+]

@@ -1,0 +1,22 @@
+[
+	{
+	  "especialidad": "Banco de sangre",
+	  "numeroColegiado": "MED1",
+	  "correo": "javierruiz@gmail.com",
+	  "id": 5,
+	  "nombre": "Javier",
+	  "apellidos": "Ruiz",
+	  "pass": "1234",
+	  "edad": 23
+	},
+	{
+	  "especialidad": "Banco de sangre",
+	  "numeroColegiado": "MED2",
+	  "correo": "jorgeperezaloe@gmail.com",
+	  "id": 6,
+	  "nombre": "jorge",
+	  "apellidos": "perez aloe",
+	  "pass": "1234",
+	  "edad": 23
+	}
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "especialidad": "Powelifting",
+    "correo": "anabohueles@gmail.com",
+    "id": 3,
+    "nombre": "Ana",
+    "pass": "1234",
+    "edad": 19
+  },
+  {
+    "especialidad": "Descanso",
+    "correo": "carlostorrents@gmail.com",
+    "id": 4,
+    "nombre": "Carlos",
+    "pass": "1234",
+    "edad": 21
+  },
+  {
+    "especialidad": "puta",
+    "correo": "yaiza@gmail.com",
+    "id": 12,
+    "nombre": "yaiza",
+    "apellidos": "vinagre",
+    "pass": "1234",
+    "edad": 21
+  },
+  {
+    "especialidad": "a",
+    "correo": "a",
+    "id": 12,
+    "nombre": "a",
+    "apellidos": "a",
+    "pass": "a",
+    "edad": 21
+  },
+  {
+    "especialidad": "entrenar",
+    "correo": "entrenador@gmail.com",
+    "id": 13,
+    "nombre": "entrenador",
+    "apellidos": "bueno",
+    "pass": "1234",
+    "edad": 21
+  }
+]
